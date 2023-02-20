@@ -1,0 +1,9 @@
+A = {a,b,c,d,e,f,g}
+w = abfedcbag
+a) x := x+w
+b) y := y+v
+c) z := z+x
+d) w := w+y
+e) v := v+z
+f) x := z*w
+g) y := v*w
